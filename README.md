@@ -1,6 +1,9 @@
 Arthur Andrews
+
 Data Scientist, Chemical Engineer
+
 Languages: R, Python
+
 Hobbies: Board Games, Baseball, Music
 
 <!---
