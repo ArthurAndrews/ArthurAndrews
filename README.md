@@ -1,10 +1,14 @@
-Arthur Andrews
+# Arthur Andrews
 
-Data Scientist, Chemical Engineer
+*Data Scientist & Chemical Engineer*
 
-Languages: R, Python
+# Languages
 
-Hobbies: Board Games, Baseball, Music
+R, Python
+
+# Hobbies
+
+Board Games, Baseball, Music
 
 <!---
 ArthurAndrews/ArthurAndrews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
