@@ -2,6 +2,8 @@
 
 *Data Scientist & Chemical Engineer*
 
+R, Python, Shiny, Quarto, Linux, SQL
+
 # Hobbies
 
 Board Games, Baseball, Music
