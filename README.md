@@ -10,7 +10,8 @@ Board Games, Baseball, Music
 
 ### MLB Player Aging
   - A data analysis & statistical model for the aging of major leage baseball performance
-  - https://arthurandrews.github.io/mlb_player_aging/
+  - **repo**: https://github.com/ArthurAndrews/mlb_player_aging
+  - **website**: https://arthurandrews.github.io/mlb_player_aging/
 
 <!---
 ArthurAndrews/ArthurAndrews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
