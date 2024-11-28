@@ -10,7 +10,6 @@ Board Games, Baseball, Music
 
 # Personal Projects
 
-### Blog
   - My [blog](https://arthurandrews.github.io/blog/), mostly about baseball statistics
 
 <!---
